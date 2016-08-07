@@ -20,3 +20,9 @@ Use underscore key to *italicize* text.
 >Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 ##我喜欢的菜鸟教程网
 [菜鸟教程](http:/www.runoob.com)
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
